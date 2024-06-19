@@ -1,0 +1,9 @@
+{
+  "name": "YST Family (2024)",
+  "url": "https://ystfamily.com",
+  "description": "Massage Booking App",
+  "thumbnail": "https://www.ystfamily.com/yst-family-logo.png",
+  "status": "FINISHED",
+  "opensource": false,
+  "stacks":["VueJS", "NestJS", "Flutter", "PostgreSQL", "Redis", "JWT"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Saham Rakyat (2023 - now)",
+  "url": "https://sahamrakyat.com",
+  "description": "App For Stock Transaction",
+  "thumbnail": "https://logo.clearbit.com/https://sahamrakyat.com",
+  "status": "ONGOING",
+  "opensource": false,
+  "stacks": [
+    "VueJS",
+    "Flutter",
+    "JWT",
+    "Local Authentication"
+  ]
+}

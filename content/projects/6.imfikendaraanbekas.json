@@ -1,0 +1,13 @@
+{
+  "name": "IMFI Kendaraan Bekas (2022)",
+  "url": "https://play.google.com/store/apps/details?id=com.imfi.kendaraan_bekas",
+  "description": "Application For Sell Used Vehichle",
+  "thumbnail": "https://play-lh.googleusercontent.com/30pzFsuhGzYt8MB5Uc6i2Kr502SKM4ErJL1Ok2pyRvkEgIAg1T-36Q9NuFXp4qkzywo=w480-h960-rw",
+  "status": "FINISHED",
+  "opensource": false,
+  "stacks": [
+    "Flutter",
+    "Geolocation",
+    "SQL Lite"
+  ]
+}

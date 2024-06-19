@@ -1,0 +1,14 @@
+{
+  "name": "Beavers Basketball (2023)",
+  "url": "https://beaversbasketball.id",
+  "description": "Website For Beavers Basketball ",
+  "thumbnail": "https://www.beaversbasketball.id/assets/icon/border-black.png",
+  "status": "FINISHED",
+  "opensource": false,
+  "stacks": [
+    "Svelte",
+    "Laravel",
+    "MySql",
+    "Inertia"
+  ]
+}

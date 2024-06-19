@@ -10,6 +10,14 @@
         {{ project.name }}
       </h3>
       <p class="text-gray-400 text-sm">{{ project.description }}</p>
+      <div class="pl-4">
+        <ul
+          class="flex flex-wrap text-gray-400 text-sm list-disc"
+          v-if="project.stacks"
+        >
+          <li v-for="i in project.stacks" class="pr-5">{{ i }}</li>
+        </ul>
+      </div>
     </div>
     <div
       class="flex-1 border-b border-dashed border-gray-300 dark:border-gray-800 group-hover:border-gray-700"

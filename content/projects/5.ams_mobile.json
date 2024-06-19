@@ -1,0 +1,12 @@
+{
+  "name": "AMS Mobile (2023)",
+  "url": "https://play.google.com/store/apps/details?id=com.imfi.amsmobile.release",
+  "description": "Asset Management System for all IMFI employees",
+  "thumbnail": "https://play-lh.googleusercontent.com/OTLGdOHUHK8yExHwbo9PkgnOZl5yH6iy5uvZi1n9BbyFs9-fRYhnqDRno4zy-ottO2Qq=w480-h960-rw",
+  "status": "FINISHED",
+  "opensource": false,
+  "stacks": [
+    "Flutter",
+    "SQL Lite"
+  ]
+}
