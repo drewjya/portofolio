@@ -2,8 +2,15 @@
   "name": "YST Family (2024)",
   "url": "https://ystfamily.com",
   "description": "Massage Booking App",
-  "thumbnail": "https://www.ystfamily.com/yst-family-logo.png",
+  "thumbnail": "https://play-lh.googleusercontent.com/YIuthpmox6NsqDhZ5JfCHvMCFlMRFR7mFWWIs-u0pHc2vljDdjJOsDpiWHWscMnU58o=w480-h960-rw",
   "status": "FINISHED",
   "opensource": false,
-  "stacks":["VueJS", "NestJS", "Flutter", "PostgreSQL", "Redis", "JWT"]
+  "stacks": [
+    "VueJS",
+    "NestJS",
+    "Flutter",
+    "PostgreSQL",
+    "Redis",
+    "JWT"
+  ]
 }

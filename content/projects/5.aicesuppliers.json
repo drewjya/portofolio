@@ -1,0 +1,14 @@
+{
+    "name": "Aice Suppliers (2022-2024)",
+    "url": "https://play.google.com/store/apps/details?id=com.edwardtanoto.aice",
+    "description": "Order record for AICE sales",
+    "thumbnail": "https://play-lh.googleusercontent.com/WE3ag8j1YtrT4KbI1k58wG4o6Ri5Xk6iO8qIDGi6J1srwQ58Ftz47CWs3NFT30C2ljs=w480-h960-rw",
+    "status": "FINISHED",
+    "opensource": false,
+    "stacks": [
+        "Golang",
+        "Flutter",
+        "PostgreSQL",
+        "React"
+    ]
+}
